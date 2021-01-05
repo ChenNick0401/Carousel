@@ -5,7 +5,7 @@
 2.CarouselAdapter - 內容物的切換元件<br>
 3.ItemData        - 內容物的資料來源<br>
 
-# 簡易範例
+# 範例
 ```
 Carousel carousel = findViewById(R.id.carousel);
 carousel.setListData(dataList);
